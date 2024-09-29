@@ -1,7 +1,7 @@
-<h1>#####################GRAPH-QL AND APOLLO SERVER###################</h1>
+<h1>############GRAPH-QL AND APOLLO SERVER###########</h1>
 <p>Graphql is a query language</p>
 <p>It is alternative of <strong>REST api</strong></p>
-<br /><br /><br />
+<br />
 <h1>#############REST API#############</h1>
 <p>REST api Create overfetching problem</p>
 <h3>OverFetching</h3>
@@ -36,4 +36,6 @@
 <p>If we fetch some data from server and we want only user firstName and lastName </p>
 <p>In case Rest api fetch user's all data, but we want only user's firstName and lastName, here Rest api introduce <strong>OVERFETCHING</strong></p>
 <hr />
-<h3>To avoid <strong>OVERFETCHING</strong> we used <strong>GRAPHQL</strong></h3>
+<h3>To solve <strong>OVERFETCHING and UNDERFETCHING</strong> we used <strong>GRAPHQL</strong></h3>
+<p><strong>REST API have various endpoint for various request</strong></p>
+<p><strong>GRAPHQL has only one enpoint i.e., POST</strong></p>
