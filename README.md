@@ -39,3 +39,19 @@
 <h3>To solve <strong>OVERFETCHING and UNDERFETCHING</strong> we used <strong>GRAPHQL</strong></h3>
 <p><strong>REST API have various endpoint for various request</strong></p>
 <p><strong>GRAPHQL has only one enpoint i.e., POST</strong></p>
+<hr />
+<h1>Graphql terminologies</h1>
+<ul>
+ <li>
+ <h2>Query</h2>
+   <p>to get data</p>
+ </li>
+  <li>
+    <h2>Mutation</h2>
+    <p>to post/update/delete data</p>
+  </li>
+  <li>
+    <h2>Resolver</h2>
+    <p>has logic to handle query or mutation operation</p>
+  </li>
+</ul>
