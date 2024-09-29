@@ -1,0 +1,16 @@
+{
+  "name": "graph-ql",
+  "version": "1.0.0",
+  "description": "learn apollo-server with graphql",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "babloo",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
